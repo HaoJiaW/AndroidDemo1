@@ -1,0 +1,12 @@
+/gen/
+/bin/
+*.classpath
+/build/
+/.gradle/
+/.idea/
+/.settings/
+local.properties
+*.iml
+project.properties
+.project
+proguard-project.txt
